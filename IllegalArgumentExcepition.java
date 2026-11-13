@@ -1,0 +1,6 @@
+/**
+ * IllegalArgumentExcepition
+ */
+public class IllegalArgumentExcepition {
+
+}
